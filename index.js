@@ -3,5 +3,3 @@ function happyHolidays() {
   return "Happy Holidays!";
 }
 
-function happyHolidayTo()
-return `Happy Holidays, ${name}!
